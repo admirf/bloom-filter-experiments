@@ -1,0 +1,17 @@
+{
+  "name": "advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bloom-filters": "^1.3.0",
+    "mathjs": "^6.6.4",
+    "randomstring": "^1.1.5"
+  }
+}
